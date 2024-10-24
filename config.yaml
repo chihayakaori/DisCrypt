@@ -1,0 +1,14 @@
+# Channel id: The ID of the channel where you want to send and retrieve messages. It must be an integer (no quotes). 
+Channel id: 123456789
+
+
+# History max: The maximum number of messages to retrieve from the channel's history. Must be an integer between 0 and 100, inclusive (no quotes).
+History max: 10
+
+
+# Key: Your encryption key for encrypting and decrypting messages (no quotes).
+Key: YourEncryptionKey123
+
+
+# Token: The token for your bot which will send the messages.
+Token: YourBotToken
