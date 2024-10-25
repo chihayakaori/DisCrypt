@@ -1,6 +1,6 @@
 # Getting Started with the Program
 
-To begin, please configure the `yaml` file according to the instructions provided within it. If you don't have an encryption key, feel free to leave the default value, the program will generate a key for you automatically. 
+To begin, please open the `yaml` file using a text editor and configure it according to the instructions included within the file. If you don't have an encryption key, feel free to leave the default value, the program will generate a key for you automatically. 
 
 **Important Note :** In secure communication, encryption keys are vital. If your friends or community members don't have the same encryption key as you, they can't read your messages. Similarly, you won't be able to read their messages without their key.
 
@@ -19,3 +19,6 @@ Please be aware that the bot ignores embeds sent by bots. Therefore, if you requ
 
 
 **CC BY-NC-ND**
+
+
+Since this is version 0.95, I would appreciate any feedback regarding any additions or improvements you might suggest.
